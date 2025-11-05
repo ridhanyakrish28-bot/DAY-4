@@ -1,0 +1,29 @@
+body{
+    background-image: url("faq bac.webp");
+    background-size:100%;
+}
+nav{
+    background-color: black;
+    color:white;
+    height:50px;
+    padding-top:5px;
+    position: static;
+}
+ul li{
+    display: inline;
+    font-size: x-large;
+}
+.home{
+     padding-left:650px;
+     font-size: x-large;     
+}
+div{
+    margin-left:400px;
+    border-style: solid;
+    border-color: black;
+    width:600px;
+    height:200px;
+}
+p{
+    margin-left:200px;
+}

@@ -1,0 +1,24 @@
+body{
+    background-image: url("book.jpg");
+    background-attachment:fixed;
+    background-size: 100%;
+}
+nav{
+    background-color: black;
+    color:white;
+    height:50px;
+    padding-top:5px;
+    position:sticky;
+}
+ul li{
+    display: inline;
+    font-size: x-large;
+}
+.home{
+     padding-left:650px;
+     font-size: x-large;     
+}
+div{
+    margin-left:600px;
+    margin-top:80px;
+}

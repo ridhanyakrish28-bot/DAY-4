@@ -1,0 +1,59 @@
+body{
+    background-image: url("bac des 2.webp");
+    background-attachment: fixed;
+    background-size: 100%;
+}
+nav{
+    background-color: black;
+    color:white;
+    height:50px;
+    padding-top:5px;
+    position: sticky;
+    top:0px;
+}
+ul li{
+    display: inline;
+    font-size: x-large;
+}
+.home{
+     padding-left:590px;
+     font-size: x-large;
+}
+a{
+    text-decoration: none;
+    color: antiquewhite;
+}
+.one{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    margin-top:8px;
+}
+img{
+    width:520px;
+    height:500px;
+    padding:15px;
+    margin-left:5px;
+    margin-top:30px; margin-bottom:40px;
+}
+div{
+    border-color: black;
+    border-style: solid;
+    border-radius: 20px;
+    border-width:1px;
+    margin-top:20px;
+    margin-bottom:20px;
+    padding:5px;
+    padding-left:0px;
+    margin-left:30px;
+}
+button{
+    margin-left:230px;
+}
+a{
+    color: black;
+}
+.two{
+    color: white;
+}
