@@ -1,7 +1,7 @@
 body{
-    background-image: url("book.jpg");
-    background-attachment:fixed;
-    background-size: 100%;
+    background-image:url("bac des 2.webp");
+    background-attachment: fixed;
+    background-size:100%;
 }
 nav{
     background-color: black;
@@ -20,8 +20,14 @@ ul li{
      font-size: x-large;     
 }
 div{
-    margin-left:600px;
+    margin-left:520px;
     margin-top:80px;
+    border-color: black;
+    border-style: solid;
+    width:350px;
+    height:850px;
+    padding-left:150px;
+    padding-top: 40px;
 }
 button{
     color:crimson;
