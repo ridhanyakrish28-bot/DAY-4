@@ -1,12 +1,13 @@
 body{
-    background-image: url("bac 4.jpg");
+    background-image: url("home img.jpg");
     background-size:100%;
+    background-repeat: no-repeat;
 }
 nav{
     background-color: black;
     color:white;
     height:50px;
-    padding-top:5px;
+    padding-top:10px;
     position:sticky;
 }
 ul li{
@@ -20,4 +21,21 @@ ul li{
 a{
     text-decoration: none;
     color: black;
+}
+button{
+    color:black;
+    width:100px;
+    height:30px;
+}
+img{
+    width:400px;
+    height:300px;
+}
+div{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content:center;
+    align-items:center;
+    margin-top:500px;
+    margin-bottom:50px;
 }

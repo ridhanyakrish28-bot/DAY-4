@@ -9,6 +9,7 @@ nav{
     height:50px;
     padding-top:5px;
     position:sticky;
+    top:0px;
 }
 ul li{
     display: inline;
@@ -21,4 +22,7 @@ ul li{
 div{
     margin-left:600px;
     margin-top:80px;
+}
+button{
+    color:crimson;
 }

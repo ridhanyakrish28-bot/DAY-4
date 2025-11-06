@@ -1,6 +1,7 @@
 body{
-    background-image: url("faq.png");
-    background-size:cover;
+    background-image: url("book img.jpg");
+    background-size:100%;
+    background-attachment: fixed;
 }
 nav{
     background-color:black;
@@ -8,6 +9,7 @@ nav{
     height:50px;
     padding-top:5px;
     position:sticky;
+    top:0px;
 }
 ul li{
     display: inline;
